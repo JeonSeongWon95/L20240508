@@ -12,6 +12,7 @@ int main()
 	cout << "u r age is " << _age << endl;
 	cout << "what u r Mother age?";
 	cin >> _motherage;
+	cout << "u r Mother age is " << _motherage;
 
 	return 0;
 }
