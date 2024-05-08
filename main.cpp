@@ -8,7 +8,7 @@ int main()
 	cout << "Hello World" << endl;
 	cout << "what u r age?";
 	cin >> _age;
-	cout << _age;
+	cout << "u r age is " << _age;
 
 	return 0;
 }
